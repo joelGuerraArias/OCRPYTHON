@@ -1,0 +1,7 @@
+Flask
+Flask-SQLAlchemy
+Pillow
+pytesseract
+transformers
+nltk
+torch
